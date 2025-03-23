@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tayyab</h1>
-<h3 align="center">🚀 Full-Stack Developer | Real-time Systems</h3>
+<h1 align="center">Malik Tayyab</h1>
+<h3 align="center"> Full-Stack Developer | Real-time Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Node.js+%7C+Angular+%7C+MongoDB;Socket.IO+%7C+Real-time+Apps;ERP+%7C+API+Integrations;Let's+Build+Something+Great+%F0%9F%92%BB" alt="Typing SVG" />
